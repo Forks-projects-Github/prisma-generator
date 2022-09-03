@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should get proper answers object when answering using sample1 1`] = `
+Object {
+  "generatorName": "prisma-generator-data-graph",
+  "githubActions": true,
+  "packageManager": "pnpm",
+  "semanticRelease": true,
+  "typescript": true,
+  "usageTemplate": true,
+}
+`;
+
+exports[`should get proper answers object when answering using sample2 1`] = `
+Object {
+  "generatorName": "prisma-generator-data-graph",
+  "githubActions": false,
+  "packageManager": "pnpm",
+  "typescript": false,
+  "usageTemplate": false,
+}
+`;
+
+exports[`should get proper answers object when answering using sample3 1`] = `
+Object {
+  "generatorName": "prisma-generator-data-graph",
+  "githubActions": false,
+  "packageManager": "npm",
+  "typescript": false,
+  "usageTemplate": true,
+}
+`;
+
+exports[`should get proper answers object when answering using sample4 1`] = `
+Object {
+  "generatorName": "my-gen",
+  "githubActions": false,
+  "packageManager": "pnpm",
+  "typescript": true,
+  "usageTemplate": false,
+}
+`;

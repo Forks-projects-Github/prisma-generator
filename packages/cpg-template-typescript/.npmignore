@@ -1,0 +1,14 @@
+src
+node_modules
+tsconfig.json
+README.md
+jest.config.js
+yarn.lock
+yarn-error.log
+pnpm-debug.log
+template/.turbo
+dist/**/*
+template/.pnpm-debug.log
+.pnpm-debug.log
+.turbo
+dist

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`githubActionsTemplate command is configured properly 1`] = `"npx @cpg-cli/github-actions path"`;
+
+exports[`javascriptTemplate command is configured properly 1`] = `"npx @cpg-cli/template path"`;
+
+exports[`rootConfigs command is configured properly 1`] = `"npx @cpg-cli/root-configs path"`;
+
+exports[`setupSemanticRelease command is configured properly 1`] = `"npx @cpg-cli/semantic-releases path workspace"`;
+
+exports[`typescriptTemplate command is configured properly 1`] = `"npx @cpg-cli/template-typescript path"`;
+
+exports[`usageTemplate command is configured properly 1`] = `"npx @cpg-cli/template-gen-usage path"`;

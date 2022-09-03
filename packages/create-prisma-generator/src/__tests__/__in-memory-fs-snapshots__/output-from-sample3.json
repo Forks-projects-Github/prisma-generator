@@ -1,0 +1,32 @@
+{
+  "answers": {
+    "generatorName": "prisma-generator-data-graph-some-uniqueness",
+    "typescript": false,
+    "packageManager": "yarn",
+    "githubActions": true,
+    "semanticRelease": false,
+    "usageTemplate": false
+  },
+  "pathSep": "\\",
+  "fsSnapshot": {
+    "prisma-generator-data-graph-some-uniqueness\\.prettierrc": "",
+    "prisma-generator-data-graph-some-uniqueness\\README.md": "",
+    "prisma-generator-data-graph-some-uniqueness\\.gitignore": "",
+    "prisma-generator-data-graph-some-uniqueness\\.babelrc": "",
+    "prisma-generator-data-graph-some-uniqueness\\.npmignore": "",
+    "prisma-generator-data-graph-some-uniqueness\\jest.config.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\package.json": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\bin.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\constants.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\generator.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\helpers\\genEnum.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\utils\\formatFile.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\utils\\writeFileSafely.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\__tests__\\genEnum.test.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\__tests__\\__fixtures__\\getSampleDMMF.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\__tests__\\__fixtures__\\sample.prisma": "",
+    "prisma-generator-data-graph-some-uniqueness\\src\\__tests__\\__snapshots__\\genEnum.test.js.snap": "",
+    "prisma-generator-data-graph-some-uniqueness\\.github\\dependabot.yml": "",
+    "prisma-generator-data-graph-some-uniqueness\\.github\\workflows\\CI.yml": ""
+  }
+}

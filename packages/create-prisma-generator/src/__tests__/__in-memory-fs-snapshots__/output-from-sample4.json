@@ -1,0 +1,33 @@
+{
+  "answers": {
+    "generatorName": "@org/prisma-generator-data-graph-some-uniqueness",
+    "typescript": false,
+    "packageManager": "npm",
+    "githubActions": false,
+    "usageTemplate": true
+  },
+  "pathSep": "\\",
+  "fsSnapshot": {
+    "org-prisma-generator-data-graph-some-uniqueness\\.prettierrc": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\README.md": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\.gitignore": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\usage\\package.json": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\usage\\prisma\\schema.prisma": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\.babelrc": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\.npmignore": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\jest.config.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\package.json": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\bin.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\constants.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\generator.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\helpers\\genEnum.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\utils\\formatFile.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\utils\\writeFileSafely.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\genEnum.test.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__fixtures__\\getSampleDMMF.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__fixtures__\\sample.prisma": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__snapshots__\\genEnum.test.js.snap": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\packages\\generator\\dist\\bin.js": "",
+    "org-prisma-generator-data-graph-some-uniqueness\\package.json": ""
+  }
+}

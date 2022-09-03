@@ -1,0 +1,26 @@
+{
+  "name": "@cpg-cli/template",
+  "version": "1.4.8",
+  "main": "bin.js",
+  "license": "MIT",
+  "bin": {
+    "cpg-template": "bin.js"
+  },
+  "files": [
+    "template/**/*",
+    "index.js",
+    "bin.js"
+  ],
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "homepage": "https://github.com/YassinEldeeb/create-prisma-generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YassinEldeeb/create-prisma-generator.git"
+  },
+  "author": "Yassin Eldeeb <yassineldeeb94@gmail.com>",
+  "keywords": [
+    "create-prisma-generator"
+  ]
+}

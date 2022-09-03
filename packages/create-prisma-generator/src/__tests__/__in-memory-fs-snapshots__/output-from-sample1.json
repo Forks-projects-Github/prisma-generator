@@ -1,0 +1,39 @@
+{
+  "answers": {
+    "generatorName": "prisma-generator-data-graph-some-uniqueness",
+    "typescript": true,
+    "packageManager": "pnpm",
+    "githubActions": true,
+    "semanticRelease": true,
+    "usageTemplate": true
+  },
+  "pathSep": "\\",
+  "fsSnapshot": {
+    "prisma-generator-data-graph-some-uniqueness\\.prettierrc": "",
+    "prisma-generator-data-graph-some-uniqueness\\README.md": "",
+    "prisma-generator-data-graph-some-uniqueness\\.gitignore": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\usage\\package.json": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\usage\\prisma\\schema.prisma": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\.npmignore": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\jest.config.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\package.json": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\bin.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\constants.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\generator.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\helpers\\genEnum.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\utils\\formatFile.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\utils\\writeFileSafely.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\genEnum.test.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__fixtures__\\getSampleDMMF.ts": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__fixtures__\\sample.prisma": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\src\\__tests__\\__snapshots__\\genEnum.test.ts.snap": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\tsconfig.json": "",
+    "prisma-generator-data-graph-some-uniqueness\\packages\\generator\\dist\\bin.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\.github\\dependabot.yml": "",
+    "prisma-generator-data-graph-some-uniqueness\\.github\\workflows\\CI.yml": "",
+    "prisma-generator-data-graph-some-uniqueness\\pnpm-workspace.yaml": "",
+    "prisma-generator-data-graph-some-uniqueness\\commitlint.config.js": "",
+    "prisma-generator-data-graph-some-uniqueness\\package.json": "",
+    "prisma-generator-data-graph-some-uniqueness\\.husky\\commit-msg": ""
+  }
+}
