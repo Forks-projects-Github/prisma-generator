@@ -1,0 +1,28 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: 'npm'
+    directory: '/packages/create-prisma-generator'
+    schedule:
+      interval: 'daily'
+
+  # Checking for dependencies in templates *weekly*
+  # ADDED PROGRAMATICALLY
+  - package-ecosystem: 'npm'
+    directory: '/packages/cpg-semantic-releases/template'
+    schedule:
+      interval: 'weekly'
+
+  - package-ecosystem: 'npm'
+    directory: '/packages/cpg-template/template'
+    schedule:
+      interval: 'weekly'
+
+  - package-ecosystem: 'npm'
+    directory: '/packages/cpg-template-typescript/template'
+    schedule:
+      interval: 'weekly'
