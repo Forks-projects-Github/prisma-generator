@@ -1,5 +1,6 @@
 ![Banner Image](https://github.com/YassinEldeeb/create-prisma-generator/blob/main/images/cool-banner.png)
 
+
 <div align="center">
   <a href="https://www.npmjs.com/package/create-prisma-generator"><img src="https://img.shields.io/npm/v/create-prisma-generator.svg?style=flat" /></a>
   <a href="https://npmcharts.com/compare/create-prisma-generator?minimal=true"><img src="https://img.shields.io/npm/dm/create-prisma-generator.svg?style=flat"/></a>
