@@ -20,7 +20,7 @@
     "test-w": "jest --watch"
   },
   "dependencies": {
-    "@types/fs-extra": "^9.0.13",
+    "@types/fs-extra": "^11.0.1",
     "chalk": "4.1.2",
     "fs-extra": "^10.0.0",
     "inquirer": "^8.2.0",
